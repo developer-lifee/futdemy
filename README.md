@@ -36,7 +36,7 @@ Este proyecto tiene como objetivo desarrollar una aplicación web que permita a 
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu_usuario/Proyecto_ED-Futbol.git`
+1. Clona el repositorio: `git clone https://github.com/developer-lifee/futdemy.git`
 2. Instala las dependencias: `pip install -r requirements.txt`
 
 ## Uso
